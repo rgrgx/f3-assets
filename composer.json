@@ -1,12 +1,12 @@
 {
-    "name": "ikkez/f3-assets",
+    "name": "ikkez/f3assets",
     "description": "CSS/JS Assets Plugin for PHP Fat-Free Framework",
     "keywords": ["F3","fatfree","js","css","minify"],
     "homepage": "https://github.com/ikkez/f3-assets",
     "license": "GPL-3.0",
     "autoload": {
 	"psr-4": {
-            "f3-assets\\": "lib/"
+            "f3assets\\": "lib/"
         }
     }
 }
