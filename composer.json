@@ -5,8 +5,6 @@
     "homepage": "https://github.com/ikkez/f3-assets",
     "license": "GPL-3.0",
     "autoload": {
-	"psr-4": {
-            "f3assets\\": "lib/"
-        }
+	"classmap": ["lib/"]
     }
 }
